@@ -1,6 +1,6 @@
 # Plano de Estudos EmbarqueDigital - RiseUp 2025.1
 
-## Móodulo 01
+## Módulo 01
 ### Iniciando com React.js
 <p>Nesse módulo, criaremos uma aplicação React utilizando o Vite e aprenderemos sobre os conceitos mais importantes do React, entre eles estão componentização, propriedades, estados, imutabilidade e hooks, além de aplicar o TypeScript no nosso projeto para adicionar tipagem estática à aplicação.</p>
 
